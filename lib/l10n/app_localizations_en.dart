@@ -318,7 +318,15 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get partnerBekiaPartnership =>
-      'We collaborated with them to let users link their Bekia account with GreeAlex and get points for recycling.';
+      'Bekia users can exchange their collected waste for discounts on AlexBank products, promoting a circular economy.';
+
+  @override
+  String get greeAlexDefinition =>
+      '🌱 Gree Alex is an initiative by AlexBank to promote sustainability in Alexandria. We work with our partners to create a greener future for our city. 🤝';
+
+  @override
+  String get partnersResponse =>
+      '🤝 Our main partner is AlexBank 🏦, and we also work with Banlastic, Greenish, VeryNile, Youth Loves Egypt, and Bekia to make Alexandria a better place. ✨';
 
   @override
   String get profileTitle => 'Profile';
@@ -379,14 +387,14 @@ class AppLocalizationsEn extends AppLocalizations {
   String get seeAll => 'See All';
 
   @override
-  String get chatbotTitle => 'GreenAlex Bot';
-
-  @override
   String get chatbotSubtitle => 'Sustainability Assistant';
 
   @override
   String get chatbotWelcome =>
-      'Hello! I\'m GreenAlex Bot, your sustainable assistant for Alexandria! I can help you with eco-friendly actions, AlexBank services, and earning Green Points. What can I help you with today?';
+      '👋 Hello! I\'m Greenu, your sustainable assistant for Alexandria! I can help you with eco-friendly actions, AlexBank services, and earning Green Points. What can I help you with today?';
+
+  @override
+  String get chatbotTitle => 'Greenu';
 
   @override
   String get chatbotTooltip => 'Ask me about sustainability!';

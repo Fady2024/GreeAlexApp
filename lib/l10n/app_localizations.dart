@@ -665,8 +665,20 @@ abstract class AppLocalizations {
   /// No description provided for @partnerBekiaPartnership.
   ///
   /// In en, this message translates to:
-  /// **'We collaborated with them to let users link their Bekia account with GreeAlex and get points for recycling.'**
+  /// **'Bekia users can exchange their collected waste for discounts on AlexBank products, promoting a circular economy.'**
   String get partnerBekiaPartnership;
+
+  /// No description provided for @greeAlexDefinition.
+  ///
+  /// In en, this message translates to:
+  /// **'🌱 Gree Alex is an initiative by AlexBank to promote sustainability in Alexandria. We work with our partners to create a greener future for our city. 🤝'**
+  String get greeAlexDefinition;
+
+  /// No description provided for @partnersResponse.
+  ///
+  /// In en, this message translates to:
+  /// **'🤝 Our main partner is AlexBank 🏦, and we also work with Banlastic, Greenish, VeryNile, Youth Loves Egypt, and Bekia to make Alexandria a better place. ✨'**
+  String get partnersResponse;
 
   /// No description provided for @profileTitle.
   ///
@@ -776,12 +788,6 @@ abstract class AppLocalizations {
   /// **'See All'**
   String get seeAll;
 
-  /// No description provided for @chatbotTitle.
-  ///
-  /// In en, this message translates to:
-  /// **'GreenAlex Bot'**
-  String get chatbotTitle;
-
   /// No description provided for @chatbotSubtitle.
   ///
   /// In en, this message translates to:
@@ -791,8 +797,14 @@ abstract class AppLocalizations {
   /// No description provided for @chatbotWelcome.
   ///
   /// In en, this message translates to:
-  /// **'Hello! I\'m GreenAlex Bot, your sustainable assistant for Alexandria! I can help you with eco-friendly actions, AlexBank services, and earning Green Points. What can I help you with today?'**
+  /// **'👋 Hello! I\'m Greenu, your sustainable assistant for Alexandria! I can help you with eco-friendly actions, AlexBank services, and earning Green Points. What can I help you with today?'**
   String get chatbotWelcome;
+
+  /// No description provided for @chatbotTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Greenu'**
+  String get chatbotTitle;
 
   /// No description provided for @chatbotTooltip.
   ///

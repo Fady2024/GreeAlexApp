@@ -1,0 +1,72 @@
+Here are some questions and keywords you can use to interact with the Greenu chatbot, in both English and Arabic.
+
+--- English Questions & Keywords ---
+
+**General:**
+- Hello / Hi / Hey
+- Help / Support
+- Thank you / Thanks
+
+**Sustainability:**
+- What is sustainability?
+- How can I be more eco-friendly?
+- Tell me about the environment.
+
+**Banking with AlexBank:**
+- What banking services do you offer?
+- Tell me about AlexBank's green initiatives.
+- I need help with my account.
+
+**Green Points & Rewards:**
+- How do I earn Green Points?
+- What are the rewards?
+- Check my points balance.
+
+**Volunteering:**
+- Are there any volunteer events?
+- I want to join a community cleanup.
+- Tell me about volunteering opportunities.
+
+**Partners:**
+- Who are your partners?
+- Tell me about your partnerships.
+
+**About Gree Alex:**
+- Who is Gree Alex?
+- What is the Gree Alex initiative?
+
+
+--- Arabic Questions & Keywords (أسئلة وكلمات مفتاحية باللغة العربية) ---
+
+**عام:**
+- مرحبا / أهلا / سلام
+- مساعدة / دعم
+- شكرا
+
+**الاستدامة:**
+- ما هي الاستدامة؟
+- كيف أكون صديقًا للبيئة؟
+- كلمني عن البيئة.
+
+**الخدمات البنكية مع بنك الإسكندرية:**
+- ما هي الخدمات البنكية المتاحة؟
+- كلمني عن مبادرات بنك الإسكندرية الخضراء.
+- أحتاج مساعدة بخصوص حسابي.
+
+**النقاط الخضراء والمكافآت:**
+- كيف أجمع النقاط الخضراء؟
+- ما هي المكافآت؟
+- تحقق من رصيد نقاطي.
+
+**التطوع:**
+- هل هناك فعاليات تطوعية؟
+- أريد المشاركة في حملة نظافة.
+- كلمني عن فرص التطوع.
+
+**الشركاء:**
+- من هم الشركاء؟
+- كلمني عن شراكاتكم.
+
+**عن جرين أليكس:**
+- من هو جرين أليكس؟
+- ما هي مبادرة جرين أليكس؟

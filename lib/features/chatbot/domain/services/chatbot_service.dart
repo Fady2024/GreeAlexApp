@@ -82,6 +82,16 @@ class ChatbotService {
     else if (_containsAny(lowerMessage, ['help', 'assist', 'support', 'what can you do'])) {
       return _createHelpResponse(now, context);
     }
+
+    // Partners
+    else if (_containsAny(lowerMessage, ['partner', 'partners', 'who are the partners', 'من هم الشركاء', 'شريك'])) {
+      return _createPartnersResponse(now, context);
+    }
+
+    // Who is Gree Alex
+    else if (_containsAny(lowerMessage, ['gree alex', 'who is gree alex', 'من هو جرين أليكس'])) {
+      return _createGreeAlexResponse(now, context);
+    }
     
     // Default response
     else {
@@ -241,7 +251,7 @@ class ChatbotService {
 
   ChatMessage _createGreetingResponse(DateTime timestamp, BuildContext context) {
     final greetings = [
-      '👋 Hello! I\'m GreenAlex Bot, your sustainable assistant for Alexandria!',
+      '👋 Hello! I\'m Greenu, your sustainable assistant for Alexandria!',
       '🌱 Hi there! Ready to make Alexandria greener together?',
       '🌿 Welcome! How can I help you earn Green Points today?',
     ];
@@ -302,6 +312,28 @@ class ChatbotService {
           onTap: () {},
         ),
       ],
+    );
+  }
+
+  ChatMessage _createGreeAlexResponse(DateTime timestamp, BuildContext context) {
+    final appLocalizations = AppLocalizations.of(context)!;
+    return ChatMessage(
+      id: timestamp.millisecondsSinceEpoch.toString(),
+      content: appLocalizations.greeAlexDefinition,
+      sender: MessageSender.bot,
+      type: MessageType.bot,
+      timestamp: timestamp,
+    );
+  }
+
+  ChatMessage _createPartnersResponse(DateTime timestamp, BuildContext context) {
+    final appLocalizations = AppLocalizations.of(context)!;
+    return ChatMessage(
+      id: timestamp.millisecondsSinceEpoch.toString(),
+      content: appLocalizations.partnersResponse,
+      sender: MessageSender.bot,
+      type: MessageType.bot,
+      timestamp: timestamp,
     );
   }
 
