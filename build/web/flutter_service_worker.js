@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "1ebd05b7bbdae8940d8dab2d4ab49905",
-"assets/AssetManifest.bin.json": "6c6c15b5a1da802c2bb11f8483f93f99",
-"assets/AssetManifest.json": "7800d1cd15647bc2a97b9b8f138943ce",
+const RESOURCES = {"assets/AssetManifest.bin": "ca9b851fe87459ed0453b002fef2697e",
+"assets/AssetManifest.bin.json": "342a8050eccb1509c1a0182c47b484d0",
+"assets/AssetManifest.json": "426d8068723c6b178af6df6a5f79a782",
 "assets/assets/fonts/Poppins-Bold.ttf": "25b0e113ca7cce3770d542736db26368",
 "assets/assets/fonts/Poppins-Medium.ttf": "a09f2fccfee35b7247b08a1a266f0328",
 "assets/assets/fonts/Poppins-Regular.ttf": "9212f6f9860f9fc6c69b02fedf6db8c3",
@@ -42,6 +42,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "1ebd05b7bbdae8940d8dab2d4ab49905
 "assets/assets/images/partners/Youth%2520Loves%2520Egypt.jpeg": "a79e4de5223e013c83a2d25d34fe0fc7",
 "assets/assets/images/tree_planting.svg": "9ab5d38d1c611368dd69441ffcd7a1ef",
 "assets/assets/images/welcome_bg.svg": "82be701cf7835238661a5ebe3541e4fb",
+"assets/assets/logos/gree_alex_logo.png": "61f8986ee45a7d9ab9aaf38fb44eddff",
 "assets/FontManifest.json": "92818e61d2b3673d24f9b8edfad3c095",
 "assets/fonts/MaterialIcons-Regular.otf": "6a46162027fe6497f61aa26ad006287a",
 "assets/NOTICES": "1a4cfe390dacdadda7b258e62c2c83b9",
@@ -58,14 +59,14 @@ const RESOURCES = {"assets/AssetManifest.bin": "1ebd05b7bbdae8940d8dab2d4ab49905
 "canvaskit/skwasm.wasm": "39dd80367a4e71582d234948adc521c0",
 "favicon.png": "96cb6d05e2789ad61acb7abcc0f1c31d",
 "flutter.js": "83d881c1dbb6d6bcd6b42e274605b69c",
-"flutter_bootstrap.js": "bcbee028beafe2ce2def83c97d66878e",
+"flutter_bootstrap.js": "2b233b736304f60479a1c657d097c6dc",
 "icons/gree_alex_logo.png": "61f8986ee45a7d9ab9aaf38fb44eddff",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "8184ad2d7c690368981e2158b54c2eb0",
-"/": "8184ad2d7c690368981e2158b54c2eb0",
+"index.html": "0d70ee8857ac27109880d5f1a3f3dd14",
+"/": "0d70ee8857ac27109880d5f1a3f3dd14",
 "main.dart.js": "a4df9c7991dffac1b0eca09c591f82d6",
 "manifest.json": "517e368f7563fd5d1f2779a59c65608b",
 "version.json": "1ea3e7faeda329745921e6d2ebc5cd90"};
