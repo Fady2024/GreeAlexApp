@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 120">
+  <!-- Background -->
+  <rect width="280" height="120" fill="#E0F2F1"/>
+
+  <!-- Sun -->
+  <circle cx="240" cy="30" r="15" fill="#FFC107"/>
+
+  <!-- Sea -->
+  <path d="M 0 80 Q 70 60, 140 80 T 280 80 V 120 H 0 Z" fill="#4DB6AC"/>
+
+  <!-- Sand -->
+  <path d="M 0 100 Q 70 110, 140 100 T 280 110 V 120 H 0 Z" fill="#FFE0B2"/>
+
+  <!-- Person Icon -->
+  <g transform="translate(120, 70)">
+    <circle cx="10" cy="5" r="5" fill="#616161"/>
+    <path d="M 10 10 V 30 L 0 40 M 10 30 L 20 40" stroke="#616161" stroke-width="2" fill="none"/>
+    <path d="M 5 20 L 15 20" stroke="#616161" stroke-width="2" fill="none"/>
+  </g>
+
+  <!-- Trash Bag -->
+  <rect x="145" y="95" width="15" height="20" rx="4" fill="#616161"/>
+  <rect x="148" y="92" width="9" height="5" rx="2" fill="#616161"/>
+
+  <!-- Text -->
+  <text x="140" y="60" font-family="Poppins, sans-serif" font-size="14" fill="#37474F" text-anchor="middle">Beach Cleanup</text>
+</svg> 
