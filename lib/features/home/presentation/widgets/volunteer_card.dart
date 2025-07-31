@@ -64,7 +64,7 @@ class VolunteerCard extends StatelessWidget {
                           ),
                         ),
                       ),
-                      PointsBadge(points: opportunity.points),
+                      PointsBadge(points: opportunity.points, onLightBackground: true),
                     ],
                   ),
                   const SizedBox(height: 8),
