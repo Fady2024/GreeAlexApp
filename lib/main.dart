@@ -3,7 +3,7 @@ import 'package:flutter_localizations/flutter_localizations.dart';
 import 'core/theme/app_theme.dart';
 import 'package:flutter/foundation.dart' show kIsWeb;
 import 'features/layout/presentation/widgets/phone_frame_wrapper.dart';
-import 'features/welcome/presentation/screens/welcome_screen.dart';
+import 'features/splash/presentation/screens/splash_screen.dart';
 import 'l10n/app_localizations.dart';
 
 void main() async {
@@ -36,7 +36,7 @@ class MyApp extends StatelessWidget {
         }
         return child!;
       },
-      home: const WelcomeScreen(),
+      home: const SplashScreen(),
     );
   }
 }
