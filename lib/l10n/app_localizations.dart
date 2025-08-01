@@ -943,6 +943,192 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Transport'**
   String get transportCategory;
+
+  /// No description provided for @chatbotGreeting.
+  ///
+  /// In en, this message translates to:
+  /// **'Hello there! How can I help you be more sustainable today?'**
+  String get chatbotGreeting;
+
+  /// No description provided for @chatbotGreeting2.
+  ///
+  /// In en, this message translates to:
+  /// **'Hi! Ready to explore some green actions in Alexandria?'**
+  String get chatbotGreeting2;
+
+  /// No description provided for @chatbotGreeting3.
+  ///
+  /// In en, this message translates to:
+  /// **'Welcome! I\'m here to assist with your eco-journey.'**
+  String get chatbotGreeting3;
+
+  /// No description provided for @thankYouResponse1.
+  ///
+  /// In en, this message translates to:
+  /// **'You\'re welcome! Happy to help.'**
+  String get thankYouResponse1;
+
+  /// No description provided for @thankYouResponse2.
+  ///
+  /// In en, this message translates to:
+  /// **'Anytime! Let me know if you need anything else.'**
+  String get thankYouResponse2;
+
+  /// No description provided for @farewellResponse1.
+  ///
+  /// In en, this message translates to:
+  /// **'Goodbye! Have a great day.'**
+  String get farewellResponse1;
+
+  /// No description provided for @farewellResponse2.
+  ///
+  /// In en, this message translates to:
+  /// **'See you later! Keep up the great work for our planet.'**
+  String get farewellResponse2;
+
+  /// No description provided for @botIdentityResponse1.
+  ///
+  /// In en, this message translates to:
+  /// **'I am Greenu, your virtual assistant for a sustainable Alexandria, powered by AlexBank.'**
+  String get botIdentityResponse1;
+
+  /// No description provided for @botIdentityResponse2.
+  ///
+  /// In en, this message translates to:
+  /// **'You can call me Greenu. I\'m here to help you with eco-friendly tips and rewards!'**
+  String get botIdentityResponse2;
+
+  /// No description provided for @sustainabilityResponse.
+  ///
+  /// In en, this message translates to:
+  /// **'That\'s a great topic! Here is a sustainability tip for you:'**
+  String get sustainabilityResponse;
+
+  /// No description provided for @bankingInfoResponse.
+  ///
+  /// In en, this message translates to:
+  /// **'Of course! AlexBank offers several green banking options. Here\'s one you might be interested in:'**
+  String get bankingInfoResponse;
+
+  /// No description provided for @pointsAndRewardsResponse.
+  ///
+  /// In en, this message translates to:
+  /// **'You can earn Green Points by completing eco-friendly actions. You can then redeem them for great rewards!'**
+  String get pointsAndRewardsResponse;
+
+  /// No description provided for @volunteerResponse.
+  ///
+  /// In en, this message translates to:
+  /// **'It\'s great that you want to help! Here are some upcoming volunteer opportunities:'**
+  String get volunteerResponse;
+
+  /// No description provided for @chatbotDefaultResponse.
+  ///
+  /// In en, this message translates to:
+  /// **'I\'m not sure I understand. I can help with topics like sustainability, banking, points, and volunteering. How can I assist you?'**
+  String get chatbotDefaultResponse;
+
+  /// No description provided for @sustainabilityTip1Title.
+  ///
+  /// In en, this message translates to:
+  /// **'Recycle Plastic Bottles'**
+  String get sustainabilityTip1Title;
+
+  /// No description provided for @sustainabilityTip1Desc.
+  ///
+  /// In en, this message translates to:
+  /// **'Collect and recycle 10 plastic bottles to earn points.'**
+  String get sustainabilityTip1Desc;
+
+  /// No description provided for @sustainabilityTip2Title.
+  ///
+  /// In en, this message translates to:
+  /// **'Conserve Energy'**
+  String get sustainabilityTip2Title;
+
+  /// No description provided for @sustainabilityTip2Desc.
+  ///
+  /// In en, this message translates to:
+  /// **'Reduce your electricity consumption by 10% this month.'**
+  String get sustainabilityTip2Desc;
+
+  /// No description provided for @sustainabilityTip3Title.
+  ///
+  /// In en, this message translates to:
+  /// **'Save Water'**
+  String get sustainabilityTip3Title;
+
+  /// No description provided for @sustainabilityTip3Desc.
+  ///
+  /// In en, this message translates to:
+  /// **'Install a water-saving showerhead.'**
+  String get sustainabilityTip3Desc;
+
+  /// No description provided for @bankingInfoTitle.
+  ///
+  /// In en, this message translates to:
+  /// **'Green Personal Loan'**
+  String get bankingInfoTitle;
+
+  /// No description provided for @bankingInfoDesc.
+  ///
+  /// In en, this message translates to:
+  /// **'Finance your eco-friendly projects, like solar panels or home insulation, with a special low-interest loan.'**
+  String get bankingInfoDesc;
+
+  /// No description provided for @quickActionCheckBalance.
+  ///
+  /// In en, this message translates to:
+  /// **'Check Balance'**
+  String get quickActionCheckBalance;
+
+  /// No description provided for @quickActionViewRewards.
+  ///
+  /// In en, this message translates to:
+  /// **'View Rewards'**
+  String get quickActionViewRewards;
+
+  /// No description provided for @quickActionBeachCleanup.
+  ///
+  /// In en, this message translates to:
+  /// **'Beach Cleanup'**
+  String get quickActionBeachCleanup;
+
+  /// No description provided for @quickActionTreePlanting.
+  ///
+  /// In en, this message translates to:
+  /// **'Tree Planting'**
+  String get quickActionTreePlanting;
+
+  /// No description provided for @quickActionEcoTips.
+  ///
+  /// In en, this message translates to:
+  /// **'Eco Tips'**
+  String get quickActionEcoTips;
+
+  /// No description provided for @quickActionBanking.
+  ///
+  /// In en, this message translates to:
+  /// **'Banking Services'**
+  String get quickActionBanking;
+
+  /// No description provided for @quickActionPoints.
+  ///
+  /// In en, this message translates to:
+  /// **'About Points'**
+  String get quickActionPoints;
+
+  /// No description provided for @quickActionHelpTopics.
+  ///
+  /// In en, this message translates to:
+  /// **'Help Topics'**
+  String get quickActionHelpTopics;
+
+  /// No description provided for @quickActionPopularQuestions.
+  ///
+  /// In en, this message translates to:
+  /// **'Popular Questions'**
+  String get quickActionPopularQuestions;
 }
 
 class _AppLocalizationsDelegate

@@ -331,7 +331,7 @@ class ChatMessageBubble extends StatelessWidget {
               ),
               child: Text(
                 appLocalizations.getStarted,
-                style: AppTypography.buttonMedium,
+                style: AppTypography.buttonMedium.copyWith(color: AppColors.grey900),
               ),
             ),
           ),
@@ -353,7 +353,7 @@ class ChatMessageBubble extends StatelessWidget {
             child: Container(
               padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
               decoration: BoxDecoration(
-                color: AppColors.white,
+                color: AppColors.grey100,
                 borderRadius: BorderRadius.circular(20),
                 border: Border.all(color: AppColors.grey300),
                 boxShadow: [

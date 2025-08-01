@@ -115,7 +115,7 @@ class RewardCard extends StatelessWidget {
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.stretch,
                 children: [
-                  PointsBadge(points: reward.requiredPoints),
+                                    PointsBadge(points: reward.requiredPoints, onLightBackground: true),
                   const SizedBox(height: 8),
                   ElevatedButton(
                     onPressed: onRedeem,

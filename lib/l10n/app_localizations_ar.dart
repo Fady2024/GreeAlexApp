@@ -469,4 +469,110 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get transportCategory => 'مواصلات';
+
+  @override
+  String get chatbotGreeting =>
+      'أهلاً بك! كيف يمكنني مساعدتك لتكون صديقًا للبيئة اليوم؟';
+
+  @override
+  String get chatbotGreeting2 =>
+      'مرحباً! هل أنت مستعد لاستكشاف بعض الإجراءات الخضراء في الإسكندرية؟';
+
+  @override
+  String get chatbotGreeting3 => 'أهلاً بك! أنا هنا لمساعدتك في رحلتك البيئية.';
+
+  @override
+  String get thankYouResponse1 => 'على الرحب والسعة! يسعدني المساعدة.';
+
+  @override
+  String get thankYouResponse2 => 'في أي وقت! أخبرني إذا احتجت أي شيء آخر.';
+
+  @override
+  String get farewellResponse1 => 'مع السلامة! أتمنى لك يوماً رائعاً.';
+
+  @override
+  String get farewellResponse2 =>
+      'أراك لاحقاً! استمر في عملك الرائع من أجل كوكبنا.';
+
+  @override
+  String get botIdentityResponse1 =>
+      'أنا جرينو، مساعدك الافتراضي لإسكندرية مستدامة، بدعم من بنك الإسكندرية.';
+
+  @override
+  String get botIdentityResponse2 =>
+      'يمكنك مناداتي جرينو. أنا هنا لمساعدتك بنصائح ومكافآت صديقة للبيئة!';
+
+  @override
+  String get sustainabilityResponse =>
+      'هذا موضوع رائع! إليك نصيحة حول الاستدامة:';
+
+  @override
+  String get bankingInfoResponse =>
+      'بالطبع! يقدم بنك الإسكندرية العديد من الخيارات المصرفية الخضراء. إليك أحدها قد يثير اهتمامك:';
+
+  @override
+  String get pointsAndRewardsResponse =>
+      'يمكنك كسب النقاط الخضراء من خلال إكمال الإجراءات الصديقة للبيئة. يمكنك بعد ذلك استبدالها بمكافآت رائعة!';
+
+  @override
+  String get volunteerResponse =>
+      'من الرائع أنك تريد المساعدة! إليك بعض فرص التطوع القادمة:';
+
+  @override
+  String get chatbotDefaultResponse =>
+      'لست متأكدًا من أنني أفهم. يمكنني المساعدة في مواضيع مثل الاستدامة، والخدمات المصرفية، والنقاط، والتطوع. كيف يمكنني مساعدتك؟';
+
+  @override
+  String get sustainabilityTip1Title => 'إعادة تدوير الزجاجات البلاستيكية';
+
+  @override
+  String get sustainabilityTip1Desc =>
+      'اجمع وأعد تدوير 10 زجاجات بلاستيكية لكسب النقاط.';
+
+  @override
+  String get sustainabilityTip2Title => 'الحفاظ على الطاقة';
+
+  @override
+  String get sustainabilityTip2Desc =>
+      'قلل من استهلاكك للكهرباء بنسبة 10٪ هذا الشهر.';
+
+  @override
+  String get sustainabilityTip3Title => 'توفير المياه';
+
+  @override
+  String get sustainabilityTip3Desc => 'قم بتركيب رأس دش موفر للمياه.';
+
+  @override
+  String get bankingInfoTitle => 'القرض الشخصي الأخضر';
+
+  @override
+  String get bankingInfoDesc =>
+      'موّل مشاريعك الصديقة للبيئة، مثل الألواح الشمسية أو عزل المنازل، بقرض خاص منخفض الفائدة.';
+
+  @override
+  String get quickActionCheckBalance => 'التحقق من الرصيد';
+
+  @override
+  String get quickActionViewRewards => 'عرض المكافآت';
+
+  @override
+  String get quickActionBeachCleanup => 'تنظيف الشاطئ';
+
+  @override
+  String get quickActionTreePlanting => 'زراعة الأشجار';
+
+  @override
+  String get quickActionEcoTips => 'نصائح بيئية';
+
+  @override
+  String get quickActionBanking => 'الخدمات المصرفية';
+
+  @override
+  String get quickActionPoints => 'عن النقاط';
+
+  @override
+  String get quickActionHelpTopics => 'مواضيع المساعدة';
+
+  @override
+  String get quickActionPopularQuestions => 'الأسئلة الشائعة';
 }

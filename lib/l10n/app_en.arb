@@ -177,5 +177,44 @@
   "recycingCategory": "Recycling",
   "publicTransportTitle": "Use Public Transport",
   "publicTransportDescription": "Use public transport for a week",
-  "transportCategory": "Transport"
+  "transportCategory": "Transport",
+
+  "chatbotGreeting": "Hello there! How can I help you be more sustainable today?",
+  "chatbotGreeting2": "Hi! Ready to explore some green actions in Alexandria?",
+  "chatbotGreeting3": "Welcome! I'm here to assist with your eco-journey.",
+
+  "thankYouResponse1": "You're welcome! Happy to help.",
+  "thankYouResponse2": "Anytime! Let me know if you need anything else.",
+
+  "farewellResponse1": "Goodbye! Have a great day.",
+  "farewellResponse2": "See you later! Keep up the great work for our planet.",
+
+  "botIdentityResponse1": "I am Greenu, your virtual assistant for a sustainable Alexandria, powered by AlexBank.",
+  "botIdentityResponse2": "You can call me Greenu. I'm here to help you with eco-friendly tips and rewards!",
+
+  "sustainabilityResponse": "That's a great topic! Here is a sustainability tip for you:",
+  "bankingInfoResponse": "Of course! AlexBank offers several green banking options. Here's one you might be interested in:",
+  "pointsAndRewardsResponse": "You can earn Green Points by completing eco-friendly actions. You can then redeem them for great rewards!",
+  "volunteerResponse": "It's great that you want to help! Here are some upcoming volunteer opportunities:",
+  "chatbotDefaultResponse": "I'm not sure I understand. I can help with topics like sustainability, banking, points, and volunteering. How can I assist you?",
+
+  "sustainabilityTip1Title": "Recycle Plastic Bottles",
+  "sustainabilityTip1Desc": "Collect and recycle 10 plastic bottles to earn points.",
+  "sustainabilityTip2Title": "Conserve Energy",
+  "sustainabilityTip2Desc": "Reduce your electricity consumption by 10% this month.",
+  "sustainabilityTip3Title": "Save Water",
+  "sustainabilityTip3Desc": "Install a water-saving showerhead.",
+
+  "bankingInfoTitle": "Green Personal Loan",
+  "bankingInfoDesc": "Finance your eco-friendly projects, like solar panels or home insulation, with a special low-interest loan.",
+
+  "quickActionCheckBalance": "Check Balance",
+  "quickActionViewRewards": "View Rewards",
+  "quickActionBeachCleanup": "Beach Cleanup",
+  "quickActionTreePlanting": "Tree Planting",
+  "quickActionEcoTips": "Eco Tips",
+  "quickActionBanking": "Banking Services",
+  "quickActionPoints": "About Points",
+  "quickActionHelpTopics": "Help Topics",
+  "quickActionPopularQuestions": "Popular Questions"
 }

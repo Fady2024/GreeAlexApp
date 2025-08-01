@@ -470,4 +470,112 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get transportCategory => 'Transport';
+
+  @override
+  String get chatbotGreeting =>
+      'Hello there! How can I help you be more sustainable today?';
+
+  @override
+  String get chatbotGreeting2 =>
+      'Hi! Ready to explore some green actions in Alexandria?';
+
+  @override
+  String get chatbotGreeting3 =>
+      'Welcome! I\'m here to assist with your eco-journey.';
+
+  @override
+  String get thankYouResponse1 => 'You\'re welcome! Happy to help.';
+
+  @override
+  String get thankYouResponse2 =>
+      'Anytime! Let me know if you need anything else.';
+
+  @override
+  String get farewellResponse1 => 'Goodbye! Have a great day.';
+
+  @override
+  String get farewellResponse2 =>
+      'See you later! Keep up the great work for our planet.';
+
+  @override
+  String get botIdentityResponse1 =>
+      'I am Greenu, your virtual assistant for a sustainable Alexandria, powered by AlexBank.';
+
+  @override
+  String get botIdentityResponse2 =>
+      'You can call me Greenu. I\'m here to help you with eco-friendly tips and rewards!';
+
+  @override
+  String get sustainabilityResponse =>
+      'That\'s a great topic! Here is a sustainability tip for you:';
+
+  @override
+  String get bankingInfoResponse =>
+      'Of course! AlexBank offers several green banking options. Here\'s one you might be interested in:';
+
+  @override
+  String get pointsAndRewardsResponse =>
+      'You can earn Green Points by completing eco-friendly actions. You can then redeem them for great rewards!';
+
+  @override
+  String get volunteerResponse =>
+      'It\'s great that you want to help! Here are some upcoming volunteer opportunities:';
+
+  @override
+  String get chatbotDefaultResponse =>
+      'I\'m not sure I understand. I can help with topics like sustainability, banking, points, and volunteering. How can I assist you?';
+
+  @override
+  String get sustainabilityTip1Title => 'Recycle Plastic Bottles';
+
+  @override
+  String get sustainabilityTip1Desc =>
+      'Collect and recycle 10 plastic bottles to earn points.';
+
+  @override
+  String get sustainabilityTip2Title => 'Conserve Energy';
+
+  @override
+  String get sustainabilityTip2Desc =>
+      'Reduce your electricity consumption by 10% this month.';
+
+  @override
+  String get sustainabilityTip3Title => 'Save Water';
+
+  @override
+  String get sustainabilityTip3Desc => 'Install a water-saving showerhead.';
+
+  @override
+  String get bankingInfoTitle => 'Green Personal Loan';
+
+  @override
+  String get bankingInfoDesc =>
+      'Finance your eco-friendly projects, like solar panels or home insulation, with a special low-interest loan.';
+
+  @override
+  String get quickActionCheckBalance => 'Check Balance';
+
+  @override
+  String get quickActionViewRewards => 'View Rewards';
+
+  @override
+  String get quickActionBeachCleanup => 'Beach Cleanup';
+
+  @override
+  String get quickActionTreePlanting => 'Tree Planting';
+
+  @override
+  String get quickActionEcoTips => 'Eco Tips';
+
+  @override
+  String get quickActionBanking => 'Banking Services';
+
+  @override
+  String get quickActionPoints => 'About Points';
+
+  @override
+  String get quickActionHelpTopics => 'Help Topics';
+
+  @override
+  String get quickActionPopularQuestions => 'Popular Questions';
 }
