@@ -209,7 +209,7 @@ abstract class AppLocalizations {
   /// No description provided for @beachCleanupDescription.
   ///
   /// In en, this message translates to:
-  /// **'Join us in cleaning Alexandria\'s beaches'**
+  /// **'Join us in cleaning Egypt\'s beaches and shores'**
   String get beachCleanupDescription;
 
   /// No description provided for @treePlantingTitle.
@@ -221,7 +221,7 @@ abstract class AppLocalizations {
   /// No description provided for @treePlantingDescription.
   ///
   /// In en, this message translates to:
-  /// **'Help us make Alexandria greener'**
+  /// **'Help us make Egypt greener'**
   String get treePlantingDescription;
 
   /// No description provided for @leaderboardAndRewards.
@@ -365,7 +365,7 @@ abstract class AppLocalizations {
   /// No description provided for @rewardPlantTreeDescription.
   ///
   /// In en, this message translates to:
-  /// **'We\'ll plant a tree in your name in Alexandria'**
+  /// **'We\'ll plant a tree in your name in Egypt'**
   String get rewardPlantTreeDescription;
 
   /// No description provided for @partnerAlexBankGreenInitiative.
@@ -671,13 +671,13 @@ abstract class AppLocalizations {
   /// No description provided for @greeAlexDefinition.
   ///
   /// In en, this message translates to:
-  /// **'🌱 Gree Alex is an initiative by AlexBank to promote sustainability in Alexandria. We work with our partners to create a greener future for our city. 🤝'**
+  /// **'🌱 Gree Alex is an initiative by AlexBank to promote sustainability in Egypt. We work with our partners to create a greener future for our country. 🤝'**
   String get greeAlexDefinition;
 
   /// No description provided for @partnersResponse.
   ///
   /// In en, this message translates to:
-  /// **'🤝 Our main partner is AlexBank 🏦, and we also work with Banlastic, Greenish, VeryNile, Youth Loves Egypt, and Bekia to make Alexandria a better place. ✨'**
+  /// **'🤝 Our main partner is AlexBank 🏦, and we also work with Banlastic, Greenish, VeryNile, Youth Loves Egypt, and Bekia to make Egypt a better place. ✨'**
   String get partnersResponse;
 
   /// No description provided for @profileTitle.
@@ -740,17 +740,17 @@ abstract class AppLocalizations {
   /// **'Food Donation Drive'**
   String get historyFoodDonationTitle;
 
-  /// No description provided for @locationMontazaBeach.
+  /// No description provided for @locationNileRiverBank.
   ///
   /// In en, this message translates to:
-  /// **'Montaza Beach'**
-  String get locationMontazaBeach;
+  /// **'Nile River Bank'**
+  String get locationNileRiverBank;
 
-  /// No description provided for @locationSanStefano.
+  /// No description provided for @locationLocalCommunity.
   ///
   /// In en, this message translates to:
-  /// **'San Stefano'**
-  String get locationSanStefano;
+  /// **'Local Community Center'**
+  String get locationLocalCommunity;
 
   /// Shows the number of current participants out of the maximum allowed
   ///
@@ -797,7 +797,7 @@ abstract class AppLocalizations {
   /// No description provided for @chatbotWelcome.
   ///
   /// In en, this message translates to:
-  /// **'👋 Hello! I\'m Greenu, your sustainable assistant for Alexandria! I can help you with eco-friendly actions, AlexBank services, and earning Green Points. What can I help you with today?'**
+  /// **'👋 Hello! I\'m Greenu, your sustainable assistant for Egypt! I can help you with eco-friendly actions, AlexBank services, and earning Green Points. What can I help you with today?'**
   String get chatbotWelcome;
 
   /// No description provided for @chatbotTitle.
@@ -845,7 +845,7 @@ abstract class AppLocalizations {
   /// No description provided for @chatHelpSustainabilityDesc.
   ///
   /// In en, this message translates to:
-  /// **'Get eco-friendly actions and tips for Alexandria'**
+  /// **'Get eco-friendly actions and tips for Egypt'**
   String get chatHelpSustainabilityDesc;
 
   /// No description provided for @chatHelpBanking.
@@ -953,7 +953,7 @@ abstract class AppLocalizations {
   /// No description provided for @chatbotGreeting2.
   ///
   /// In en, this message translates to:
-  /// **'Hi! Ready to explore some green actions in Alexandria?'**
+  /// **'Hi! Ready to explore some green actions in Egypt?'**
   String get chatbotGreeting2;
 
   /// No description provided for @chatbotGreeting3.
@@ -989,7 +989,7 @@ abstract class AppLocalizations {
   /// No description provided for @botIdentityResponse1.
   ///
   /// In en, this message translates to:
-  /// **'I am Greenu, your virtual assistant for a sustainable Alexandria, powered by AlexBank.'**
+  /// **'I am Greenu, your virtual assistant for a sustainable Egypt, powered by AlexBank.'**
   String get botIdentityResponse1;
 
   /// No description provided for @botIdentityResponse2.

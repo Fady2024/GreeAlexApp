@@ -64,13 +64,13 @@ class AppLocalizationsAr extends AppLocalizations {
   String get beachCleanupTitle => 'يوم تنظيف الشاطئ';
 
   @override
-  String get beachCleanupDescription => 'انضم إلينا في تنظيف شواطئ الإسكندرية';
+  String get beachCleanupDescription => 'انضم إلينا في تنظيف شواطئ وسواحل مصر';
 
   @override
   String get treePlantingTitle => 'مبادرة زراعة الأشجار';
 
   @override
-  String get treePlantingDescription => 'ساعدنا في جعل الإسكندرية أكثر خضرة';
+  String get treePlantingDescription => 'ساعدنا في جعل مصر أكثر خضرة';
 
   @override
   String get leaderboardAndRewards => 'لوحة المتصدرين والمكافآت';
@@ -149,8 +149,7 @@ class AppLocalizationsAr extends AppLocalizations {
   String get rewardPlantTreeTitle => 'ازرع شجرة';
 
   @override
-  String get rewardPlantTreeDescription =>
-      'سنقوم بزراعة شجرة باسمك في الإسكندرية';
+  String get rewardPlantTreeDescription => 'سنقوم بزراعة شجرة باسمك في مصر';
 
   @override
   String get partnerAlexBankGreenInitiative => 'مبادرة بنك الإسكندرية الخضراء';
@@ -321,11 +320,11 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get greeAlexDefinition =>
-      '🌱 جرين أليكس هي مبادرة من بنك الإسكندرية لتعزيز الاستدامة في الإسكندرية. نعمل مع شركائنا لخلق مستقبل أكثر خضرة لمدينتنا. 🤝';
+      '🌱 جرين أليكس هي مبادرة من بنك الإسكندرية لتعزيز الاستدامة في مصر. نعمل مع شركائنا لخلق مستقبل أكثر خضرة لبلدنا. 🤝';
 
   @override
   String get partnersResponse =>
-      '🤝 شريكنا الرئيسي هو بنك الإسكندرية 🏦، ونعمل أيضًا مع بانلاستيك، وجرينيش، وڤيري نايل، وشباب بتحب مصر، وبيكيا لجعل الإسكندرية مكانًا أفضل. ✨';
+      '🤝 شريكنا الرئيسي هو بنك الإسكندرية 🏦، ونعمل أيضًا مع بانلاستيك، وجرينيش، وڤيري نايل، وشباب بتحب مصر، وبيكيا لجعل مصر مكانًا أفضل. ✨';
 
   @override
   String get profileTitle => 'الملف الشخصي';
@@ -358,10 +357,10 @@ class AppLocalizationsAr extends AppLocalizations {
   String get historyFoodDonationTitle => 'حملة التبرع بالطعام';
 
   @override
-  String get locationMontazaBeach => 'شاطئ المنتزه';
+  String get locationNileRiverBank => 'ضفاف نهر النيل';
 
   @override
-  String get locationSanStefano => 'سان ستيفانو';
+  String get locationLocalCommunity => 'مركز مجتمعي محلي';
 
   @override
   String participantsCount(Object count, Object max) {
@@ -390,7 +389,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get chatbotWelcome =>
-      '👋 مرحباً! أنا جرينو، مساعدك المستدام في الإسكندرية! يمكنني مساعدتك في الأعمال الصديقة للبيئة وخدمات بنك الإسكندرية وكسب النقاط الخضراء. كيف يمكنني مساعدتك اليوم؟';
+      '👋 مرحباً! أنا جرينو، مساعدك المستدام في مصر! يمكنني مساعدتك في الأعمال الصديقة للبيئة وخدمات بنك الإسكندرية وكسب النقاط الخضراء. كيف يمكنني مساعدتك اليوم؟';
 
   @override
   String get chatbotTitle => 'جرينو';
@@ -416,7 +415,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get chatHelpSustainabilityDesc =>
-      'احصل على أعمال ونصائح صديقة للبيئة في الإسكندرية';
+      'احصل على أعمال ونصائح صديقة للبيئة في مصر';
 
   @override
   String get chatHelpBanking => 'خدمات بنك الإسكندرية';
@@ -476,7 +475,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get chatbotGreeting2 =>
-      'مرحباً! هل أنت مستعد لاستكشاف بعض الإجراءات الخضراء في الإسكندرية؟';
+      'مرحباً! هل أنت مستعد لاستكشاف بعض الإجراءات الخضراء في مصر؟';
 
   @override
   String get chatbotGreeting3 => 'أهلاً بك! أنا هنا لمساعدتك في رحلتك البيئية.';
@@ -496,7 +495,7 @@ class AppLocalizationsAr extends AppLocalizations {
 
   @override
   String get botIdentityResponse1 =>
-      'أنا جرينو، مساعدك الافتراضي لإسكندرية مستدامة، بدعم من بنك الإسكندرية.';
+      'أنا جرينو، مساعدك الافتراضي لمصر مستدامة، بدعم من بنك الإسكندرية.';
 
   @override
   String get botIdentityResponse2 =>

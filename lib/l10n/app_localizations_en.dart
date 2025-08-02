@@ -65,13 +65,13 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get beachCleanupDescription =>
-      'Join us in cleaning Alexandria\'s beaches';
+      'Join us in cleaning Egypt\'s beaches and shores';
 
   @override
   String get treePlantingTitle => 'Tree Planting Initiative';
 
   @override
-  String get treePlantingDescription => 'Help us make Alexandria greener';
+  String get treePlantingDescription => 'Help us make Egypt greener';
 
   @override
   String get leaderboardAndRewards => 'Leaderboard & Rewards';
@@ -151,7 +151,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get rewardPlantTreeDescription =>
-      'We\'ll plant a tree in your name in Alexandria';
+      'We\'ll plant a tree in your name in Egypt';
 
   @override
   String get partnerAlexBankGreenInitiative => 'AlexBank Green Initiative';
@@ -322,11 +322,11 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get greeAlexDefinition =>
-      '🌱 Gree Alex is an initiative by AlexBank to promote sustainability in Alexandria. We work with our partners to create a greener future for our city. 🤝';
+      '🌱 Gree Alex is an initiative by AlexBank to promote sustainability in Egypt. We work with our partners to create a greener future for our country. 🤝';
 
   @override
   String get partnersResponse =>
-      '🤝 Our main partner is AlexBank 🏦, and we also work with Banlastic, Greenish, VeryNile, Youth Loves Egypt, and Bekia to make Alexandria a better place. ✨';
+      '🤝 Our main partner is AlexBank 🏦, and we also work with Banlastic, Greenish, VeryNile, Youth Loves Egypt, and Bekia to make Egypt a better place. ✨';
 
   @override
   String get profileTitle => 'Profile';
@@ -359,10 +359,10 @@ class AppLocalizationsEn extends AppLocalizations {
   String get historyFoodDonationTitle => 'Food Donation Drive';
 
   @override
-  String get locationMontazaBeach => 'Montaza Beach';
+  String get locationNileRiverBank => 'Nile River Bank';
 
   @override
-  String get locationSanStefano => 'San Stefano';
+  String get locationLocalCommunity => 'Local Community Center';
 
   @override
   String participantsCount(Object count, Object max) {
@@ -391,7 +391,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get chatbotWelcome =>
-      '👋 Hello! I\'m Greenu, your sustainable assistant for Alexandria! I can help you with eco-friendly actions, AlexBank services, and earning Green Points. What can I help you with today?';
+      '👋 Hello! I\'m Greenu, your sustainable assistant for Egypt! I can help you with eco-friendly actions, AlexBank services, and earning Green Points. What can I help you with today?';
 
   @override
   String get chatbotTitle => 'Greenu';
@@ -417,7 +417,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get chatHelpSustainabilityDesc =>
-      'Get eco-friendly actions and tips for Alexandria';
+      'Get eco-friendly actions and tips for Egypt';
 
   @override
   String get chatHelpBanking => 'AlexBank Services';
@@ -477,7 +477,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get chatbotGreeting2 =>
-      'Hi! Ready to explore some green actions in Alexandria?';
+      'Hi! Ready to explore some green actions in Egypt?';
 
   @override
   String get chatbotGreeting3 =>
@@ -499,7 +499,7 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get botIdentityResponse1 =>
-      'I am Greenu, your virtual assistant for a sustainable Alexandria, powered by AlexBank.';
+      'I am Greenu, your virtual assistant for a sustainable Egypt, powered by AlexBank.';
 
   @override
   String get botIdentityResponse2 =>
