@@ -19,9 +19,9 @@
   "reduceEnergyDescription": "Lower your electricity bill by 10%",
   "energyCategory": "Energy",
   "beachCleanupTitle": "Beach Cleanup Day",
-  "beachCleanupDescription": "Join us in cleaning Alexandria's beaches",
+  "beachCleanupDescription": "Join us in cleaning Egypt's beaches and shores",
   "treePlantingTitle": "Tree Planting Initiative",
-  "treePlantingDescription": "Help us make Alexandria greener"
+  "treePlantingDescription": "Help us make Egypt greener"
 ,
   "leaderboardAndRewards": "Leaderboard & Rewards",
   "leaderboard": "Leaderboard",
@@ -62,7 +62,7 @@
   "rewardFeeWaiverTitle": "Credit Card Fee Waiver",
   "rewardFeeWaiverDescription": "Free annual fee on your AlexBank credit card",
   "rewardPlantTreeTitle": "Plant a Tree",
-  "rewardPlantTreeDescription": "We'll plant a tree in your name in Alexandria",
+  "rewardPlantTreeDescription": "We'll plant a tree in your name in Egypt",
   "partnerAlexBankGreenInitiative": "AlexBank Green Initiative",
   "rewardFreeCoffeeTitle": "Free Coffee",
   "rewardFreeCoffeeDescription": "Get a free coffee at partner cafes",
@@ -113,8 +113,8 @@
   "partnerBekiaActivity2": "Exchanging waste for points",
   "partnerBekiaActivity3": "Environmental awareness",
   "partnerBekiaPartnership": "Bekia users can exchange their collected waste for discounts on AlexBank products, promoting a circular economy.",
-  "greeAlexDefinition": "🌱 Gree Alex is an initiative by AlexBank to promote sustainability in Alexandria. We work with our partners to create a greener future for our city. 🤝",
-  "partnersResponse": "🤝 Our main partner is AlexBank 🏦, and we also work with Banlastic, Greenish, VeryNile, Youth Loves Egypt, and Bekia to make Alexandria a better place. ✨",
+  "greeAlexDefinition": "🌱 Gree Alex is an initiative by AlexBank to promote sustainability in Egypt. We work with our partners to create a greener future for our country. 🤝",
+  "partnersResponse": "🤝 Our main partner is AlexBank 🏦, and we also work with Banlastic, Greenish, VeryNile, Youth Loves Egypt, and Bekia to make Egypt a better place. ✨",
   "profileTitle": "Profile",
   "myVolunteeringHistory": "My Volunteering History",
   "logout": "Logout",
@@ -125,8 +125,8 @@
   "ecoNewbie": "Eco Newbie",
   "historyBeachCleanupTitle": "Beach Cleanup Day",
   "historyFoodDonationTitle": "Food Donation Drive",
-  "locationMontazaBeach": "Montaza Beach",
-  "locationSanStefano": "San Stefano",
+  "locationNileRiverBank": "Nile River Bank",
+  "locationLocalCommunity": "Local Community Center",
   "participantsCount": "{count}/{max} participants",
   "greenPointsAbbreviation": "{points} GP",
   "@greenPointsAbbreviation": {
@@ -149,7 +149,8 @@
   "profileTitle": "Profile",
   
   "chatbotSubtitle": "Sustainability Assistant",
-  "chatbotWelcome": "👋 Hello! I'm Greenu, your sustainable assistant for Alexandria! I can help you with eco-friendly actions, AlexBank services, and earning Green Points. What can I help you with today?",
+  "chatbotWelcome": "👋 Hello! I'm Greenu, your sustainable assistant for Egypt! I can help you with eco-friendly actions, AlexBank services, and earning Green Points. What can I help you with today?",
+
   "chatbotTitle": "Greenu",
   "chatbotTooltip": "Ask me about sustainability!",
   "chatInputPlaceholder": "Ask about sustainability, banking, points...",
@@ -157,7 +158,7 @@
   "clearChatConfirm": "Are you sure you want to clear all messages?",
   "chatHelp": "How can I help you?",
   "chatHelpSustainability": "Sustainability Tips",
-  "chatHelpSustainabilityDesc": "Get eco-friendly actions and tips for Alexandria",
+  "chatHelpSustainabilityDesc": "Get eco-friendly actions and tips for Egypt",
   "chatHelpBanking": "AlexBank Services", 
   "chatHelpBankingDesc": "Learn about green banking and sustainable finance",
   "chatHelpPoints": "Green Points",
@@ -180,7 +181,7 @@
   "transportCategory": "Transport",
 
   "chatbotGreeting": "Hello there! How can I help you be more sustainable today?",
-  "chatbotGreeting2": "Hi! Ready to explore some green actions in Alexandria?",
+  "chatbotGreeting2": "Hi! Ready to explore some green actions in Egypt?",
   "chatbotGreeting3": "Welcome! I'm here to assist with your eco-journey.",
 
   "thankYouResponse1": "You're welcome! Happy to help.",
@@ -189,7 +190,7 @@
   "farewellResponse1": "Goodbye! Have a great day.",
   "farewellResponse2": "See you later! Keep up the great work for our planet.",
 
-  "botIdentityResponse1": "I am Greenu, your virtual assistant for a sustainable Alexandria, powered by AlexBank.",
+  "botIdentityResponse1": "I am Greenu, your virtual assistant for a sustainable Egypt, powered by AlexBank.",
   "botIdentityResponse2": "You can call me Greenu. I'm here to help you with eco-friendly tips and rewards!",
 
   "sustainabilityResponse": "That's a great topic! Here is a sustainability tip for you:",
